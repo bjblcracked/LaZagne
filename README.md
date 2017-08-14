@@ -3,6 +3,26 @@ __The LaZagne Project !!!__
 ==
 
 Description
+
+
+
+github地址：https://github.com/AlessandroZ/LaZagne 2000+的点赞量。
+
+用途太多了：
+
+趁着心仪的妹子不注意，插上u盘，跑一下程序。浏览器上存储的所有密码，就都得到了。什么邮箱密码啊、游戏密码啊，想怎么看就怎么看。
+企业办公室入侵，取的法律授权，直接进入被控制的企业，对部分员工电脑执行该程序，获得非常重要的各类信息，如web系统的账号、svn/git账号密码等。
+使用方法： 支持linux、mac、windows不同操作系统，因为不同操作系统密码存储形式不一样，所以作者构建了不同的项目。
+
+python源码，直接执行即可。
+windows的话，可以下载exe执行。
+源码写的很牛逼，对于进阶python的，可以读一下作者写的源码。
+
+
+
+
+
+
 ----
 The __LaZagne project__ is an open source application used to __retrieve lots of passwords__ stored on a local computer. 
 Each software stores its passwords using different techniques (plaintext, APIs, custom algorithms, databases, etc.). This tool has been developed for the purpose of finding these passwords for the most commonly-used software. 
